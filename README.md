@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Ayden Bozzelli (he/him) and I am a software student at western university
+
+I'm currently working on completing the harvard CS50 course
+and am currently learning how to use C, C++, Python, Sql, html, css, javascript and flask. 
+Some of my interests are video games, volleyball, f1 and football.
+
+you can reach me at abozzelli33@gmail.com
+
+
+
 <!--
 **a-bozzelli/a-bozzelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
